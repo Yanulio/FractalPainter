@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/NMPk8wzpm+6w+XgFFTiJw+60slT1OVEER9UWBfJ+da9q1wNXvUBGRtA9S7MwGNL5mx23PRSTr2AWpNkD18cZA==",
+  "dgSpecHash": "vB2Hpu0X8q3/itcVLpMLDldLGQBGH789oPNroJaXE8/rfcQNsSb5etdneBh2e4RBNWRbDqXghxRe8157J8hioQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\Fractals\\FractalPainter\\FractalPainter\\FractalPainter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\git\\FractalPainter\\FractalPainter\\FractalPainter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

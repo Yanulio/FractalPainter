@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\Fractals\\FractalPainter\\FractalPainter\\FractalPainter.csproj": {}
+    "C:\\Users\\User\\Desktop\\git\\FractalPainter\\FractalPainter\\FractalPainter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\Fractals\\FractalPainter\\FractalPainter\\FractalPainter.csproj": {
+    "C:\\Users\\User\\Desktop\\git\\FractalPainter\\FractalPainter\\FractalPainter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\Fractals\\FractalPainter\\FractalPainter\\FractalPainter.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\git\\FractalPainter\\FractalPainter\\FractalPainter.csproj",
         "projectName": "FractalPainter",
-        "projectPath": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\Fractals\\FractalPainter\\FractalPainter\\FractalPainter.csproj",
-        "packagesPath": "C:\\Users\\yana1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yana1\\OneDrive\\Рабочий стол\\Fractals\\FractalPainter\\FractalPainter\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\git\\FractalPainter\\FractalPainter\\FractalPainter.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\git\\FractalPainter\\FractalPainter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yana1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -57,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\User\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

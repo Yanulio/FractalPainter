@@ -20,3 +20,25 @@ C:\Users\yana1\OneDrive\Рабочий стол\Fractals\FractalPainter\FractalP
 C:\Users\yana1\OneDrive\Рабочий стол\Fractals\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\ref\FractalPainter.dll
 C:\Users\yana1\OneDrive\Рабочий стол\Fractals\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.pdb
 C:\Users\yana1\OneDrive\Рабочий стол\Fractals\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.genruntimeconfig.cache
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\bin\Debug\net5.0-windows\FractalPainter.exe
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\bin\Debug\net5.0-windows\FractalPainter.deps.json
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\bin\Debug\net5.0-windows\FractalPainter.runtimeconfig.json
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\bin\Debug\net5.0-windows\FractalPainter.runtimeconfig.dev.json
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\bin\Debug\net5.0-windows\FractalPainter.dll
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\bin\Debug\net5.0-windows\FractalPainter.pdb
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter_MarkupCompile.cache
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter_MarkupCompile.lref
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.g.resources
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.AssemblyInfo.cs
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.dll
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\refint\FractalPainter.dll
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.pdb
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\FractalPainter.genruntimeconfig.cache
+C:\Users\User\Desktop\git\FractalPainter\FractalPainter\obj\Debug\net5.0-windows\ref\FractalPainter.dll
